@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa15c548-c715-40f1-b15c-e837c8c87a34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s2bO0CMI80K05WggwVhif5jyKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa15c548-c715-40f1-b15c-e837c8c87a34" name="Default Changelist" comment="" />
+      <created>1620073595710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620073595710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="787" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620936135359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620936135359" />
+    <state x="605" y="348" key="EnvironmentVariablesDialog" timestamp="1620075786009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="348" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620075786009" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1620106077526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620106077526" />
+    <state width="1362" height="279" key="GridCell.Tab.0.bottom" timestamp="1621407879962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621407879962" />
+    <state width="1362" height="279" key="GridCell.Tab.0.center" timestamp="1621407879962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621407879962" />
+    <state width="1362" height="279" key="GridCell.Tab.0.left" timestamp="1621407879962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621407879962" />
+    <state width="1362" height="279" key="GridCell.Tab.0.right" timestamp="1621407879962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621407879962" />
+    <state width="1362" height="306" key="GridCell.Tab.1.bottom" timestamp="1621047563128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621047563128" />
+    <state width="1362" height="306" key="GridCell.Tab.1.center" timestamp="1621047563127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621047563127" />
+    <state width="1362" height="306" key="GridCell.Tab.1.left" timestamp="1621047563127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621047563127" />
+    <state width="1362" height="306" key="GridCell.Tab.1.right" timestamp="1621047563127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621047563127" />
+    <state x="926" y="240" key="SettingsEditor" timestamp="1620936420251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="240" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620936420251" />
+    <state x="914" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1622494650000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="914" y="505" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622494650000" />
+    <state x="1231" y="264" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620262557189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="264" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620262557189" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="df_co2_clean.shape[0]" language="Python" />
+        <watch expression="t_train_data" language="Python" />
+        <watch expression="F_train_data" language="Python" />
+        <watch expression="t_data_Jan" />
+        <watch expression="t_data_month" language="Python" />
+        <watch expression="t_data_year" />
+        <watch expression="F_data" />
+        <watch expression="F_predict_Jan" />
+        <watch expression="average_Feb" />
+        <watch expression="average_Jan" />
+        <watch expression="count_Jan" />
+        <watch expression="P_Jan_train " />
+        <watch expression="t_month" />
+        <watch expression="F_test" />
+        <watch expression="Daily_Feb_2013" language="Python" />
+        <watch expression="df_BER_year_month" />
+        <watch expression="BER_month" />
+        <watch expression="F_predict" language="Python" />
+        <watch expression="t_test_time" />
+        <watch expression="rmse" />
+        <watch expression="rmse_CPI_0" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
